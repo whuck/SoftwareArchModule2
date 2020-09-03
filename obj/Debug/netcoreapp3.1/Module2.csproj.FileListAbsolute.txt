@@ -1,0 +1,13 @@
+C:\Users\Wilhab\Desktop\skool\SoftwareArchitecture\Module2\obj\Debug\netcoreapp3.1\Module2.csprojAssemblyReference.cache
+C:\Users\Wilhab\Desktop\skool\SoftwareArchitecture\Module2\obj\Debug\netcoreapp3.1\Module2.AssemblyInfoInputs.cache
+C:\Users\Wilhab\Desktop\skool\SoftwareArchitecture\Module2\obj\Debug\netcoreapp3.1\Module2.AssemblyInfo.cs
+C:\Users\Wilhab\Desktop\skool\SoftwareArchitecture\Module2\obj\Debug\netcoreapp3.1\Module2.csproj.CoreCompileInputs.cache
+C:\Users\Wilhab\Desktop\skool\SoftwareArchitecture\Module2\bin\Debug\netcoreapp3.1\Module2.exe
+C:\Users\Wilhab\Desktop\skool\SoftwareArchitecture\Module2\bin\Debug\netcoreapp3.1\Module2.deps.json
+C:\Users\Wilhab\Desktop\skool\SoftwareArchitecture\Module2\bin\Debug\netcoreapp3.1\Module2.runtimeconfig.json
+C:\Users\Wilhab\Desktop\skool\SoftwareArchitecture\Module2\bin\Debug\netcoreapp3.1\Module2.runtimeconfig.dev.json
+C:\Users\Wilhab\Desktop\skool\SoftwareArchitecture\Module2\bin\Debug\netcoreapp3.1\Module2.dll
+C:\Users\Wilhab\Desktop\skool\SoftwareArchitecture\Module2\bin\Debug\netcoreapp3.1\Module2.pdb
+C:\Users\Wilhab\Desktop\skool\SoftwareArchitecture\Module2\obj\Debug\netcoreapp3.1\Module2.dll
+C:\Users\Wilhab\Desktop\skool\SoftwareArchitecture\Module2\obj\Debug\netcoreapp3.1\Module2.pdb
+C:\Users\Wilhab\Desktop\skool\SoftwareArchitecture\Module2\obj\Debug\netcoreapp3.1\Module2.genruntimeconfig.cache
